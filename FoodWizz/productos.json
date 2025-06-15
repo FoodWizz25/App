@@ -1,0 +1,135 @@
+[
+  [
+    "Beef Ramen",
+    23.0,
+    "img/beef_ramen.jpg",
+    "Ramen",
+    12
+  ],
+  [
+    "Chicken Teriyaki",
+    18.5,
+    "img/chicken_teriyaki.jpg",
+    "Ramen",
+    8
+  ],
+  [
+    "Sushi Roll",
+    12.0,
+    "img/sushi_roll.jpg",
+    "Other",
+    20
+  ],
+  [
+    "Tofu Salad",
+    15.75,
+    "img/tofu_salad.jpg",
+    "Other",
+    5
+  ],
+  [
+    "Tempura Udon",
+    20.0,
+    "img/tempura_udon.jpg",
+    "Ramen",
+    6
+  ],
+  [
+    "Matcha Ice Cream",
+    7.5,
+    "img/matcha_ice_cream.jpg",
+    "Drink",
+    13
+  ],
+  [
+    "Miso Soup",
+    6.0,
+    "img/miso_soup.jpg",
+    "Ramen",
+    25
+  ],
+  [
+    "Green Tea",
+    4.5,
+    "img/green_tea.jpg",
+    "Drink",
+    9
+  ],
+  [
+    "Spicy Ramen",
+    22.0,
+    "img/spicy_ramen.jpg",
+    "Ramen",
+    14
+  ],
+  [
+    "Salmon Sashimi",
+    19.0,
+    "img/salmon_sashimi.jpg",
+    "Other",
+    7
+  ],
+  [
+    "Vegetable Gyoza",
+    10.0,
+    "img/vegetable_gyoza.jpg",
+    "Other",
+    10
+  ],
+  [
+    "Iced Coffee",
+    5.0,
+    "img/iced_coffee.jpg",
+    "Drink",
+    11
+  ],
+  [
+    "Fruit Mochi",
+    6.5,
+    "img/fruit_mochi.jpg",
+    "Other",
+    15
+  ],
+  [
+    "Pork Ramen",
+    24.0,
+    "img/pork_ramen.jpg",
+    "Ramen",
+    4
+  ],
+  [
+    "Bubble Tea",
+    6.0,
+    "img/bubble_tea.jpeg",
+    "Drink",
+    18
+  ],
+  [
+    "Shrimp Tempura",
+    17.5,
+    "img/shrimp_tempura.jpg",
+    "Other",
+    6
+  ],
+  [
+    "Yakisoba",
+    16.0,
+    "img/yakisoba.jpg",
+    "Ramen",
+    3
+  ],
+  [
+    "Coconut Water",
+    4.75,
+    "img/coconut_water.jpg",
+    "Drink",
+    20
+  ],
+  [
+    "Seaweed Salad",
+    9.0,
+    "img/seaweed_salad.jpg",
+    "Other",
+    2
+  ]
+]
