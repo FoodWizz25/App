@@ -1,0 +1,17 @@
+{
+  "name": "Administrador",
+  "email": "admin@foodwizz.com",
+  "business_name": "FoodWizz Restaurant",
+  "phone": "+1 234 567 8900",
+  "address": "123 Food Street, Culinary City",
+  "theme": "Claro",
+  "notifications": true,
+  "auto_backup": true,
+  "language": "Español",
+  "currency": "USD",
+  "tax_rate": 8.5,
+  "join_date": "2024-01-01",
+  "total_sales": 125000,
+  "total_orders": 1250,
+  "favorite_category": "Ramen"
+}
