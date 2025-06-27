@@ -10,20 +10,6 @@ Una aplicación de escritorio moderna construida con PyQt5 para la gestión inte
 - **Configuración de Cuenta**: Personaliza la aplicación con temas claro y oscuro
 - **Interfaz Moderna**: Diseño limpio con efectos de sombra y animaciones
 
-## Instalación
-
-1. Instala las dependencias:
-\`\`\`bash
-pip install -r requirements.txt
-\`\`\`
-
-2. Ejecuta la aplicación:
-\`\`\`bash
-python main.py
-\`\`\`
-
-## Uso
-
 ### Navegación
 - **Órdenes**: Explora el menú de productos y gestiona órdenes
 - **Inventario**: Administra el stock y información de productos
